@@ -1,0 +1,7 @@
+pc-invaders-i386
+disk-i386/
+disk-i386.img
+pc-invaders-x86_64
+disk-x86_64/
+disk-x86_64.img
+log.txt
